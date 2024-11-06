@@ -13,6 +13,7 @@ def fill_list(books, listbox):
 win=Tk()
 
 win.geometry("600x500")
+win.title("library")
 
 
 lb1=Label(win,text="title")
